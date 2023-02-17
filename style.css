@@ -1,0 +1,18 @@
+.container{
+    margin-top: 40px;
+display: flex;
+flex-wrap: wrap;
+width: 960px;
+}
+
+
+.squares{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #000;
+}
+.squares:hover{
+background-color: black;
+}
+
+
